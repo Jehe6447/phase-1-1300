@@ -1,4 +1,4 @@
-// CSCI 1300 Fall 2022
+// CSCI 1300 Spring 2023
 // Author: Jeremiah Heredia
 // Recitation: 102  – Tuan Tran
 // Homework 2 - Problem # 2
